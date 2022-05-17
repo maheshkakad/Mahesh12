@@ -1,29 +1,34 @@
-### Hi there 👋
-<h1 align="center"> Hi I'm   Arfeen Mushtaque </h1>
-
-<b>I am  Arfeen,web designer,UI/UX developer and hands on full stack web development using Javascript and React.</b>
-
-<h2>:mailbox: Reach me out!</h2>
-
-<!-- [![Twitter Badge](https://www.linkedin.com/in/prabhu-k-9843941a4?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/prabhu-k-9843941a4)](https://www.linkedin.com/in/prabhu-k-9843941a4)   [![Mail Badge](https://img.shields.io/badge/-kosireddiSreeram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:katravthprabhu151@.com) -->
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me:arfeenmushtaque1998@gmail.com.
-  
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=fff)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=fff)](#)  [![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=green&logo=MongoDB&logoColor=fff)](#)  [![HTML Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=E34F26&logo=HTML5&logoColor=fff)](#)  [![css3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=1572B6&logo=CSS3&logoColor=fff)](#)  [![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=7952B3&logo=Bootstrap&logoColor=fff)](#)  ![github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=181717&logo=GitHub&logoColor=fff)
+<p>Hi There👋</p>
+<h1>I'm Arfeen Mushtaque</h1>
 
 
 
+<p align="left" font >Like to build user friendly products and web applications with a specialization in MERN stack.</p>
+
+- 🔭 I’m currently working on **My existing Projects**
+
+- 🌱 I’m currently learning **React js**
+
+- 👯 I’m looking to collaborate on **Substantial projects**
+
+- 💬 Ask me about **Javascript,**
+
+- ⚡ Fun fact **The word engineer comes from a Latin word meaning cleverness.**
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/arfeen-mushtaque-7a5988225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arfeen Mushtaque" height="30" width="40" /></a>
+</p>
 
-#### Github Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p> 
 
-![Arfeen Mushtaque github stats](https://github-readme-stats.vercel.app/api?username=Arfeen98&count_private=true&theme=tokyonight)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arfeen98&show_icons=true&locale=en&layout=compact" alt="Arfeen98" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arfeen98&show_icons=true&locale=en" alt="Arfeen98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfeen98&" alt="Arfeen98" /></p>
 
 
